@@ -1,0 +1,7 @@
+/node_modules
+Dockerfile
+.git
+.gitignore
+.dockerignore
+# this file contains the environment, we might have this in future
+.env
